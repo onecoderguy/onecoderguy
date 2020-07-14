@@ -1,16 +1,15 @@
-### Hi there 👋
+<strong>Hello guys, thanks for visiting here. 👋 </strong><br>
+I am Luís Felipe, I'm from Sorocaba-SP / Brazil and currently:<br>
+📌 I am a student of Systems Analysis and Development at FATEC Itu<br>
+📌 I work as a fullstack developer.<br><br>
 
-<!--
-**onecoderguy/onecoderguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:<br>
+➡️ HTML5<br>
+➡️ CSS3<br>
+➡️ JQuery<br>
+➡️ ES8<br>
+➡️ PHP<br>
+➡️ MySQL<br>
+➡️ SQL Server<br>
+➡️ MongoDB<br>
+➡️ Linux<br>
