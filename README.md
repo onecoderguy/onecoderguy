@@ -1,6 +1,5 @@
 <strong>Hello guys, thanks for visiting here. 👋 </strong><br>
 I am Luís Felipe, I'm from Sorocaba-SP / Brazil and currently:<br>
-📌 I am a student of Systems Analysis and Development at FATEC Itu<br>
 📌 I work as a fullstack developer.<br><br>
 
 ## Skills:<br>
